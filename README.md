@@ -31,7 +31,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </br>
 
-| ![Thisara's github stats](https://github-readme-stats.vercel.app/api?username=ThisaraDenu&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| ![Thisara's github stats](https://github-readme-stats.vercel.app/api?username=ThisaraDenu&show_icons=true&theme=tokyonight) | ![Thisara Denuwan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThisaraDenu&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisaraDenu&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ThisaraDenu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
