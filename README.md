@@ -1,3 +1,7 @@
+<img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/border.gif" alt="border" width="100%" height="7.5rem" />
+
+[![MasterHead](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif)]([https://soumyasagnik.io](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif))
+
 <h1 align="center">Hi 👋, I'm Thisara Denuwan</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 </br>
