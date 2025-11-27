@@ -2,7 +2,7 @@
 
 [![MasterHead](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif)]([https://soumyasagnik.io](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif))
 
-<h1 align="center">Hi 👋, I'm Thisara Denuwan</h1>
+<h1 align="center">Hi, I'm Thisara Denuwan <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/hi.gif" width="28px" height="28px" alt="hi" /></h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 </br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thisaradenu&label=Profile%20views&color=0e75b6&style=flat" alt="thisaradenu" /> </p>
